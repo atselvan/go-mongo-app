@@ -1,0 +1,152 @@
+[
+    {
+        "empId": 101,
+        "firstName": "Caroline",
+        "lastName": "Schmitt",
+        "age": 24,
+        "address": {
+            "houseNumber": "5700",
+            "street": "Rue Royale",
+            "city": "Amstelveen",
+            "state": "Amsterdam",
+            "postalCode": "1088AA",
+            "country": "Netherlands"
+        },
+        "phone": ["7025551838", "9126712121"]
+    },
+    {
+        "empId": 102,
+        "firstName": "Jones",
+        "lastName": "Bergulfsen",
+        "age": 30,
+        "address": {
+            "houseNumber": "5261",
+            "street": "Level Street",
+            "city": "Amstelveen",
+            "state": "Amsterdam",
+            "postalCode": "1087TX",
+            "country": "Netherlands"
+        },
+        "phone": ["8746389476", "8376489376"]
+    },
+    {
+        "empId": 103,
+        "firstName": "Allan",
+        "lastName": "Walker",
+        "age": 27,
+        "address": {
+            "houseNumber": "5677",
+            "street": "Marshmello street",
+            "city": "Amsterdam",
+            "state": "Amsterdam",
+            "postalCode": "1011TW",
+            "country": "Netherlands"
+        },
+        "phone": ["3849836829", "2893847838"]
+    },
+    {
+        "empId": 104,
+        "firstName": "Roland",
+        "lastName": "Keitel",
+        "age": 30,
+        "address": {
+            "houseNumber": "1882",
+            "street": "Level Street",
+            "city": "Amstelveen",
+            "state": "Amsterdam",
+            "postalCode": "1087TX",
+            "country": "Netherlands"
+        },
+        "phone": ["2893874899", "8394893999"]
+    },
+    {
+        "empId": 105,
+        "firstName": "Ruth",
+        "lastName": "Keitel",
+        "age": 28,
+        "address": {
+            "houseNumber": "1882",
+            "street": "Level Street",
+            "city": "Amstelveen",
+            "state": "Amsterdam",
+            "postalCode": "1087TX",
+            "country": "Netherlands"
+        },
+        "phone": ["2938478399", "8394893999"]
+    },
+    {
+        "empId": 106,
+        "firstName": "Mary",
+        "lastName": "Saveley",
+        "age": 30,
+        "address": {
+            "houseNumber": "1188",
+            "street": "texel island",
+            "city": "Delft",
+            "state": "Amsterdam",
+            "postalCode": "2688BE",
+            "country": "Netherlands"
+        },
+        "phone": ["8746389476", "8376489376"]
+    },
+    {
+        "empId": 107,
+        "firstName": "Jerry",
+        "lastName": "Thomson",
+        "age": 23,
+        "address": {
+            "houseNumber": "1777",
+            "street": "Bulldog Street",
+            "city": "Amsterdam",
+            "state": "Amsterdam",
+            "postalCode": "1077RS",
+            "country": "Netherlands"
+        },
+        "phone": ["1982981928", "3784737827"]
+    },
+    {
+        "empId": 108,
+        "firstName": "Michael",
+        "lastName": "Peters",
+        "age": 25,
+        "address": {
+            "houseNumber": "8988",
+            "street": "Bakers Street",
+            "city": "Amsterdam",
+            "state": "Amsterdam",
+            "postalCode": "1789GS",
+            "country": "Netherlands"
+        },
+        "phone": ["2893848299", "9873652456"]
+    },
+    {
+        "empId": 109,
+        "firstName": "Thomas",
+        "lastName": "Saveley",
+        "age": 30,
+        "address": {
+            "houseNumber": "1188",
+            "street": "texel island",
+            "city": "Delft",
+            "state": "Amsterdam",
+            "postalCode": "2688BE",
+            "country": "Netherlands"
+        },
+        "phone": ["9387489030", "93847829388"]
+    },
+    {
+        "empId": 110,
+        "firstName": "Julie",
+        "lastName": "Young",
+        "age": 30,
+        "address": {
+            "houseNumber": "2361",
+            "street": "Level Street",
+            "city": "Amstelveen",
+            "state": "Amsterdam",
+            "postalCode": "1087TX",
+            "country": "Netherlands"
+        },
+        "phone": ["9283739284", "8374937399"]
+    }
+]
