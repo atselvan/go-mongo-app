@@ -1,3 +1,4 @@
 **/.DS_Store
 pkg
+src/gopkg.in/*
 src/com/privatesquare/go/mongo-app/mongo-app

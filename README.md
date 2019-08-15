@@ -8,7 +8,8 @@ https://docs.mongodb.com/manual/reference/glossary/#term-collection
 https://www.mongodb.com/products/compass
 https://docs.mongodb.com/manual/reference/mongo-shell/
 https://www.youtube.com/watch?v=pWbMrx5rVBE
-
+http://www.blog.labouardy.com/build-restful-api-in-go-and-mongodb/
+https://programming.guide/go/log-to-file.html
 
 
 
